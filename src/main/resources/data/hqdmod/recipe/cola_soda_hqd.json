@@ -1,0 +1,24 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:gray_dye"
+    }
+  },
+  "pattern": [
+    " G ",
+    "IDI",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "hqdmod:cola_soda_hqd"
+  }
+}

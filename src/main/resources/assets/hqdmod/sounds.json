@@ -1,0 +1,15 @@
+{
+  "vape_puff": {
+    "subtitle": "subtitles.hqdmod.vape_puff",
+    "sounds": [
+      "block/smoker/smoke1",
+      "block/smoker/smoke2"
+    ]
+  },
+  "vape_empty": {
+    "subtitle": "subtitles.hqdmod.vape_empty",
+    "sounds": [
+      "block/dispenser/fail"
+    ]
+  }
+}

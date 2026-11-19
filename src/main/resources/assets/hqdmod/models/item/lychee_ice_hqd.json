@@ -1,0 +1,6 @@
+﻿{
+  "parent": "hqdmod:item/hqd_base",
+  "textures": {
+    "device": "hqdmod:item/lychee_ice_hqd"
+  }
+}
